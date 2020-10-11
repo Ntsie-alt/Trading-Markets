@@ -1,2 +1,3 @@
-# Trading-Markets
-Price Movement
+# Ideas
+Observation
+Practice
